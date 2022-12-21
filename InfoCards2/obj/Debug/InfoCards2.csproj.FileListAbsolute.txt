@@ -1,0 +1,72 @@
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\InfoCards2.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\InfoCards2.pdb
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards2\obj\Debug\InfoCards2.csprojAssemblyReference.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards2\obj\Debug\InfoCards2.csproj.CoreCompileInputs.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards2\obj\Debug\InfoCards2.csproj.CopyComplete
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards2\obj\Debug\InfoCards2.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards2\obj\Debug\InfoCards2.pdb
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.AssemblyReference.cache
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.CoreCompileInputs.cache
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards2\obj\Debug\InfoCards2.dll
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards2\obj\Debug\InfoCards2.pdb
+C:\Users\makle\Desktop\Assingment\Prog\Assignment\bin\Debug\InfoCards2.dll
+C:\Users\makle\Desktop\Assingment\Prog\Assignment\bin\Debug\InfoCards2.pdb
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.CopyComplete
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards2\obj\Debug\Assignment.CCardForm.resources
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.GenerateResource.cache
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards2\obj\Debug\Assignment.CCardEForm.resources
+C:\Users\User\Desktop\Prog\Assignment\bin\Debug\InfoCards2.dll
+C:\Users\User\Desktop\Prog\Assignment\bin\Debug\InfoCards2.pdb
+C:\Users\User\Desktop\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Prog\InfoCards2\obj\Debug\InfoCards2.dll
+C:\Users\User\Desktop\Prog\InfoCards2\obj\Debug\InfoCards2.pdb
+C:\Users\User\Desktop\Prog\InfoCards2\obj\Debug\Assignment.CCeditForm.resources
+C:\Users\User\Desktop\Prog\InfoCards2\obj\Debug\Assignment.CCdisplayForm.resources
+C:\Users\makle\Desktop\Prog\Assignment\bin\Debug\InfoCards2.dll
+C:\Users\makle\Desktop\Prog\Assignment\bin\Debug\InfoCards2.pdb
+C:\Users\makle\Desktop\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.AssemblyReference.cache
+C:\Users\makle\Desktop\Prog\InfoCards2\obj\Debug\Assignment.CCeditForm.resources
+C:\Users\makle\Desktop\Prog\InfoCards2\obj\Debug\Assignment.CCdisplayForm.resources
+C:\Users\makle\Desktop\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.GenerateResource.cache
+C:\Users\makle\Desktop\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.CoreCompileInputs.cache
+C:\Users\makle\Desktop\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.CopyComplete
+C:\Users\makle\Desktop\Prog\InfoCards2\obj\Debug\InfoCards2.dll
+C:\Users\makle\Desktop\Prog\InfoCards2\obj\Debug\InfoCards2.pdb
+C:\Users\makle\Desktop\Prog\InfoCards2\obj\Debug\Assignment.GiftCeditForm.resources
+C:\Users\makle\Desktop\Prog\InfoCards2\obj\Debug\Assignment.GiftCdisplayForm.resources
+C:\Users\makle\Desktop\Prog\InfoCards2\obj\Debug\Assignment.ImageEditForm.resources
+C:\Users\makle\Desktop\Prog\InfoCards2\obj\Debug\Assignment.ImageDisplayForm.resources
+C:\Users\User\Desktop\Prog\InfoCards2\obj\Debug\Assignment.GiftCdisplayForm.resources
+C:\Users\User\Desktop\Prog\InfoCards2\obj\Debug\Assignment.GiftCeditForm.resources
+C:\Users\User\Desktop\Prog\InfoCards2\obj\Debug\Assignment.ImageDisplayForm.resources
+C:\Users\User\Desktop\Prog\InfoCards2\obj\Debug\Assignment.ImageEditForm.resources
+C:\Users\makle\Desktop\Prog1\Prog\Assignment\bin\Debug\InfoCards2.dll
+C:\Users\makle\Desktop\Prog1\Prog\Assignment\bin\Debug\InfoCards2.pdb
+C:\Users\makle\Desktop\Prog1\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.AssemblyReference.cache
+C:\Users\makle\Desktop\Prog1\Prog\InfoCards2\obj\Debug\Assignment.GiftCdisplayForm.resources
+C:\Users\makle\Desktop\Prog1\Prog\InfoCards2\obj\Debug\Assignment.GiftCeditForm.resources
+C:\Users\makle\Desktop\Prog1\Prog\InfoCards2\obj\Debug\Assignment.ImageDisplayForm.resources
+C:\Users\makle\Desktop\Prog1\Prog\InfoCards2\obj\Debug\Assignment.ImageEditForm.resources
+C:\Users\makle\Desktop\Prog1\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.GenerateResource.cache
+C:\Users\makle\Desktop\Prog1\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.CoreCompileInputs.cache
+C:\Users\makle\Desktop\Prog1\Prog\InfoCards2\obj\Debug\InfoCards2.csproj.CopyComplete
+C:\Users\makle\Desktop\Prog1\Prog\InfoCards2\obj\Debug\InfoCards2.dll
+C:\Users\makle\Desktop\Prog1\Prog\InfoCards2\obj\Debug\InfoCards2.pdb
+C:\Users\makle\Desktop\Prog1\Prog\InfoCards2\obj\Debug\Assignment.CreditCeditForm.resources
+C:\Users\makle\Desktop\Prog1\Prog\InfoCards2\obj\Debug\Assignment.CreditCdisplayForm.resources
+C:\Users\makle\Desktop\100608968\Assignment\bin\Debug\InfoCards2.dll
+C:\Users\makle\Desktop\100608968\Assignment\bin\Debug\InfoCards2.pdb
+C:\Users\makle\Desktop\100608968\InfoCards2\obj\Debug\InfoCards2.csproj.AssemblyReference.cache
+C:\Users\makle\Desktop\100608968\InfoCards2\obj\Debug\Assignment.CreditCeditForm.resources
+C:\Users\makle\Desktop\100608968\InfoCards2\obj\Debug\Assignment.CreditCdisplayForm.resources
+C:\Users\makle\Desktop\100608968\InfoCards2\obj\Debug\Assignment.GiftCdisplayForm.resources
+C:\Users\makle\Desktop\100608968\InfoCards2\obj\Debug\Assignment.GiftCeditForm.resources
+C:\Users\makle\Desktop\100608968\InfoCards2\obj\Debug\Assignment.ImageDisplayForm.resources
+C:\Users\makle\Desktop\100608968\InfoCards2\obj\Debug\Assignment.ImageEditForm.resources
+C:\Users\makle\Desktop\100608968\InfoCards2\obj\Debug\InfoCards2.csproj.GenerateResource.cache
+C:\Users\makle\Desktop\100608968\InfoCards2\obj\Debug\InfoCards2.csproj.CoreCompileInputs.cache
+C:\Users\makle\Desktop\100608968\InfoCards2\obj\Debug\InfoCards2.csproj.CopyComplete
+C:\Users\makle\Desktop\100608968\InfoCards2\obj\Debug\InfoCards2.dll
+C:\Users\makle\Desktop\100608968\InfoCards2\obj\Debug\InfoCards2.pdb

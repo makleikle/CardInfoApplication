@@ -1,0 +1,21 @@
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\InfoCards.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\Assignment\bin\Debug\InfoCards.pdb
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards\obj\Debug\InfoCards.csprojAssemblyReference.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards\obj\Debug\InfoCards.csproj.CoreCompileInputs.cache
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards\obj\Debug\InfoCards.csproj.CopyComplete
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards\obj\Debug\InfoCards.dll
+C:\Users\ferri\Desktop\Prog 2 2021\Assignment\Assignment\InfoCards\obj\Debug\InfoCards.pdb
+C:\Users\makle\Desktop\Assingment\Prog\Assignment\bin\Debug\InfoCards.dll
+C:\Users\makle\Desktop\Assingment\Prog\Assignment\bin\Debug\InfoCards.pdb
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards\obj\Debug\InfoCards.csproj.AssemblyReference.cache
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards\obj\Debug\InfoCards.csproj.CoreCompileInputs.cache
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards\obj\Debug\InfoCards.csproj.CopyComplete
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards\obj\Debug\InfoCards.dll
+C:\Users\makle\Desktop\Assingment\Prog\InfoCards\obj\Debug\InfoCards.pdb
+C:\Users\makle\Desktop\Prog\Assignment\bin\Debug\InfoCards.dll
+C:\Users\makle\Desktop\Prog\Assignment\bin\Debug\InfoCards.pdb
+C:\Users\makle\Desktop\Prog\InfoCards\obj\Debug\InfoCards.csproj.AssemblyReference.cache
+C:\Users\makle\Desktop\Prog\InfoCards\obj\Debug\InfoCards.csproj.CoreCompileInputs.cache
+C:\Users\makle\Desktop\Prog\InfoCards\obj\Debug\InfoCards.csproj.CopyComplete
+C:\Users\makle\Desktop\Prog\InfoCards\obj\Debug\InfoCards.dll
+C:\Users\makle\Desktop\Prog\InfoCards\obj\Debug\InfoCards.pdb
